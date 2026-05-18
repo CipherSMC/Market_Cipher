@@ -2,6 +2,8 @@
 
 Market Cipher B is a comprehensive "all-in-one" oscillator. Instead of looking at price alone, it tracks the **momentum** of the market and the **flow of money** into and out of an asset.
 
+[Cipher B: Indicator](https://www.tradingview.com/script/5BPJmxuY-Cipher-B-Divergences-Cipher-SMC/)
+
 ## 1. Understanding the Components
 
 To trade this indicator, you must understand its five primary layers:
