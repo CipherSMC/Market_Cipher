@@ -2,6 +2,8 @@
 
 Market Cipher A is an "all-in-one" confirmation indicator. It combines multiple Exponential Moving Averages (EMAs) with momentum oscillators (WaveTrend and RSI) to provide high-probability entry and exit signals.
 
+[Cipher A: Indicator](https://www.tradingview.com/script/uFgNHglo-Cipher-A-Cipher-SMC/)
+
 ## 1. Core Components
 
 ### The EMA Ribbon
